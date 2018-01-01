@@ -12,7 +12,7 @@ This challenge should take about 15-20 minutes to complete and requires Python 3
 The Problem
 -------------
 
-ADI wants to showcase some of the awesome students here at Columbia. We want to make a webpage for each student with their name, their favorite picture, and their favorite line from Hamilton: An American Musical. However, the ADI committee has been procrastinating by watching the latest Black Mirror episodes and their other favorite shows on Netflix. 
+ADI wants to showcase some of the awesome students here at Columbia. We want to make a webpage for each student with their name, their favorite picture, and their favorite color. However, the ADI committee has been procrastinating by watching the latest Black Mirror episodes and their other favorite shows on Netflix. 
 
 That's where you come in. We need your help adding a page dedicated to you on our new showcase website. 
 
@@ -22,7 +22,7 @@ Fork this repository.
 
 Task 2
 -------------
-Create a new HTML page (feel free to add some css as well if desired). Make sure that the page includes your name, your favorite picture, and your favorite line from Hamilton: An American Musical (or your favorite quote). 
+Create a new HTML page (feel free to add some css as well if desired). Make sure that the page includes your name, your favorite picture, and your favorite color. 
 
 Extend the [Flask](http://flask.pocoo.org/docs/0.12/quickstart/)  app so that going to the endpoint "/" + your uni will return the HTML page you created. (For example, if your uni was lcb50, you would make your HTML page visible at website.com/lcb50)
 
